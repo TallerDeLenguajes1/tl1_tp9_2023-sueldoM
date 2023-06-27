@@ -1,0 +1,15 @@
+C:\taller1\tp9\tl1_tp9_2023-sueldoM\bin\Debug\net7.0\tl1_tp9_2023-sueldoM.exe
+C:\taller1\tp9\tl1_tp9_2023-sueldoM\bin\Debug\net7.0\tl1_tp9_2023-sueldoM.deps.json
+C:\taller1\tp9\tl1_tp9_2023-sueldoM\bin\Debug\net7.0\tl1_tp9_2023-sueldoM.runtimeconfig.json
+C:\taller1\tp9\tl1_tp9_2023-sueldoM\bin\Debug\net7.0\tl1_tp9_2023-sueldoM.dll
+C:\taller1\tp9\tl1_tp9_2023-sueldoM\bin\Debug\net7.0\tl1_tp9_2023-sueldoM.pdb
+C:\taller1\tp9\tl1_tp9_2023-sueldoM\obj\Debug\net7.0\tl1_tp9_2023-sueldoM.csproj.AssemblyReference.cache
+C:\taller1\tp9\tl1_tp9_2023-sueldoM\obj\Debug\net7.0\tl1_tp9_2023-sueldoM.GeneratedMSBuildEditorConfig.editorconfig
+C:\taller1\tp9\tl1_tp9_2023-sueldoM\obj\Debug\net7.0\tl1_tp9_2023-sueldoM.AssemblyInfoInputs.cache
+C:\taller1\tp9\tl1_tp9_2023-sueldoM\obj\Debug\net7.0\tl1_tp9_2023-sueldoM.AssemblyInfo.cs
+C:\taller1\tp9\tl1_tp9_2023-sueldoM\obj\Debug\net7.0\tl1_tp9_2023-sueldoM.csproj.CoreCompileInputs.cache
+C:\taller1\tp9\tl1_tp9_2023-sueldoM\obj\Debug\net7.0\tl1_tp9_2023-sueldoM.dll
+C:\taller1\tp9\tl1_tp9_2023-sueldoM\obj\Debug\net7.0\refint\tl1_tp9_2023-sueldoM.dll
+C:\taller1\tp9\tl1_tp9_2023-sueldoM\obj\Debug\net7.0\tl1_tp9_2023-sueldoM.pdb
+C:\taller1\tp9\tl1_tp9_2023-sueldoM\obj\Debug\net7.0\tl1_tp9_2023-sueldoM.genruntimeconfig.cache
+C:\taller1\tp9\tl1_tp9_2023-sueldoM\obj\Debug\net7.0\ref\tl1_tp9_2023-sueldoM.dll

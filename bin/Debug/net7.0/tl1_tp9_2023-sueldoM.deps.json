@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "tl1_tp9_2023-sueldoM/1.0.0": {
+        "runtime": {
+          "tl1_tp9_2023-sueldoM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tl1_tp9_2023-sueldoM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
